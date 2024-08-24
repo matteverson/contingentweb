@@ -4,7 +4,6 @@ date: 2024-08-23T11:10:36+08:00
 draft: false
 language: en
 description: Terms of Service
-featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
 Please read these Terms of Service carefully before using the Idle Idol bot (the "Service") operated by Contingent Media ("the company", "us", "we", or "our").

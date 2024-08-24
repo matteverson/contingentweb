@@ -51,7 +51,7 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Live the Kpop Dream"
   description: "Discord bot extraordinaire"
-  disable_theme_toggle: true
+  disable_theme_toggle: false
 
   p1:
     heading: "Our mission"
@@ -89,7 +89,7 @@ params:
     heading: "Add to Your Server"
     content:
       - text: "Invite the bot to your server now!"
-    action: "#"
+    action: "https://discord.com/oauth2/authorize?client_id=988146339873427467"
     button: "Enable"
 
   social_media:
@@ -138,25 +138,25 @@ taxonomies:
 
 privacy:
   disqus:
-    disable: false
+    disable: true
   googleAnalytics:
     anonymizeIP: true
     disable: false
-    respectDoNotTrack: false
+    respectDoNotTrack: true
     useSessionStorage: false
   instagram:
-    disable: false
+    disable: true
     simple: false
   twitter:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   vimeo:
-    disable: false
-    enableDNT: false
+    disable: true
+    enableDNT: true
     simple: false
   youtube:
-    disable: false
+    disable: true
     privacyEnhanced: true
 
 module:
